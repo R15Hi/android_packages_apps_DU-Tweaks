@@ -73,7 +73,8 @@
     <string name="quicksettings_summary">Customize the quick settings</string>
     <string name="traffic_title">Traffic indicators</string>
     <string name="traffic_summary">Customize the traffic indicators</string>
-
+    <string name="status_bar_show_clock_bg">Show clock background chip</string>
+    
     <!-- Navigation -->
     <string name="buttons_title">Buttons</string>
     <string name="buttons_summary">Customize the Button options</string>
